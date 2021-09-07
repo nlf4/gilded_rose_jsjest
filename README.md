@@ -30,3 +30,4 @@ To generate test coverage report
 npm run test:coverage
 ```
 # gilded_rose_jsjest
+# gilded_rose
