@@ -1,8 +1,5 @@
-# Gilded Rose
 
 Gilded Rose kata in JavaScript with Jest
-
-## Getting started
 
 Install dependencies
 
@@ -10,7 +7,7 @@ Install dependencies
 npm install
 ```
 
-## Running tests
+Run tests
 
 ```sh
 npm run test
