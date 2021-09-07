@@ -1,6 +1,6 @@
 # Gilded Rose
 
-This is the Gilded Rose kata in JavaScript with Jest
+Gilded Rose kata in JavaScript with Jest
 
 ## Getting started
 
@@ -12,22 +12,6 @@ npm install
 
 ## Running tests
 
-To run all tests
-
 ```sh
-npm test
+npm run test
 ```
-
-To run all tests in watch mode
-
-```sh
-npm run test:watch
-```
-
-To generate test coverage report
-
-```sh
-npm run test:coverage
-```
-# gilded_rose_jsjest
-# gilded_rose
